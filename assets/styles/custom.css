@@ -1,0 +1,13 @@
+.table {
+    font-size: 14px;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    color: #343a40;
+    font-weight: bold;
+  }
+  

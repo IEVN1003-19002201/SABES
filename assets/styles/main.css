@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.custom-blue {
+  background-color: #0936ac;
+  color: white;
+}
+
+.custom-orange {
+  background-color: #faa00a;
+  color: white;
+}
+
+.custom-red {
+  background-color:  #ec5547 ; 
+  color: black;
+}
+
+.bg-pink {
+  background-color: #f78fb3 !important;
+}
+
+.bg-warning {
+  background-color: #f39c12 !important;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.bg-secondary {
+  background-color: #cccccc !important;
+}
